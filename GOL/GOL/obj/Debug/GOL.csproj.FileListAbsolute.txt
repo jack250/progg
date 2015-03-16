@@ -1,0 +1,30 @@
+c:\users\jack\documents\visual studio 2013\Projects\GOL\GOL\bin\Debug\GOL.exe.config
+C:\Users\Jack\documents\visual studio 2013\Projects\GOL\GOL\bin\Debug\GOL.exe
+C:\Users\Jack\documents\visual studio 2013\Projects\GOL\GOL\bin\Debug\GOL.pdb
+C:\Users\Jack\documents\visual studio 2013\Projects\GOL\GOL\obj\Debug\GOL.csprojResolveAssemblyReference.cache
+C:\Users\Jack\documents\visual studio 2013\Projects\GOL\GOL\obj\Debug\GOL.Properties.Resources.resources
+C:\Users\Jack\documents\visual studio 2013\Projects\GOL\GOL\obj\Debug\GOL.csproj.GenerateResource.Cache
+C:\Users\Jack\documents\visual studio 2013\Projects\GOL\GOL\obj\Debug\GOL.exe
+C:\Users\Jack\documents\visual studio 2013\Projects\GOL\GOL\obj\Debug\GOL.pdb
+C:\Users\Jack\documents\visual studio 2013\Projects\GOL\GOL\obj\Debug\GOL.Form1.resources
+<<<<<<< .mine
+C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\GOL\GOL\bin\Debug\GOL.exe.config
+C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\GOL\GOL\obj\Debug\GOL.exe
+C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\GOL\GOL\obj\Debug\GOL.pdb
+C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\GOL\GOL\bin\Debug\GOL.exe
+C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\GOL\GOL\bin\Debug\GOL.pdb
+C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\GOL\GOL\obj\Debug\GOL.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\GOL\GOL\obj\Debug\GOL.Form1.resources
+C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\GOL\GOL\obj\Debug\GOL.Properties.Resources.resources
+C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\GOL\GOL\obj\Debug\GOL.csproj.GenerateResource.Cache
+=======
+C:\Users\jack\Documents\SVN\iiws14\privat\jherzb\GOL\GOL\bin\Debug\GOL.exe.config
+C:\Users\jack\Documents\SVN\iiws14\privat\jherzb\GOL\GOL\obj\Debug\GOL.exe
+C:\Users\jack\Documents\SVN\iiws14\privat\jherzb\GOL\GOL\obj\Debug\GOL.pdb
+C:\Users\jack\Documents\SVN\iiws14\privat\jherzb\GOL\GOL\bin\Debug\GOL.exe
+C:\Users\jack\Documents\SVN\iiws14\privat\jherzb\GOL\GOL\bin\Debug\GOL.pdb
+C:\Users\jack\Documents\SVN\iiws14\privat\jherzb\GOL\GOL\obj\Debug\GOL.csprojResolveAssemblyReference.cache
+C:\Users\jack\Documents\SVN\iiws14\privat\jherzb\GOL\GOL\obj\Debug\GOL.Form1.resources
+C:\Users\jack\Documents\SVN\iiws14\privat\jherzb\GOL\GOL\obj\Debug\GOL.Properties.Resources.resources
+C:\Users\jack\Documents\SVN\iiws14\privat\jherzb\GOL\GOL\obj\Debug\GOL.csproj.GenerateResource.Cache
+>>>>>>> .r157
