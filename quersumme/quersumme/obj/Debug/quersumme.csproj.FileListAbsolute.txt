@@ -1,9 +1,0 @@
-C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\quersumme\quersumme\bin\Debug\quersumme.exe.config
-C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\quersumme\quersumme\bin\Debug\quersumme.exe
-C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\quersumme\quersumme\bin\Debug\quersumme.pdb
-C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\quersumme\quersumme\obj\Debug\quersumme.csprojResolveAssemblyReference.cache
-C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\quersumme\quersumme\obj\Debug\quersumme.Form1.resources
-C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\quersumme\quersumme\obj\Debug\quersumme.Properties.Resources.resources
-C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\quersumme\quersumme\obj\Debug\quersumme.csproj.GenerateResource.Cache
-C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\quersumme\quersumme\obj\Debug\quersumme.exe
-C:\Users\Jack\Documents\svn\iiws14\privat\jherzb\quersumme\quersumme\obj\Debug\quersumme.pdb
